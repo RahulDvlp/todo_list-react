@@ -1,0 +1,9 @@
+.tdl__footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1rem;
+  background-color: #f1ddbf;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
